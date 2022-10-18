@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="750"
+   height="750"
+   viewBox="0 0 750 750"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="test-grad.svg"
+   inkscape:version="1.1.2 (1:1.1+202202050950+0a00cf5339)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.46057099"
+     inkscape:cx="396.24728"
+     inkscape:cy="386.4768"
+     inkscape:window-width="1366"
+     inkscape:window-height="703"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="0,250"
+       orientation="0,1"
+       inkscape:label="baseline"
+       id="guide1759" />
+    <sodipodi:guide
+       position="0,1000"
+       orientation="0,1"
+       inkscape:label="ascender"
+       id="guide1761" />
+    <sodipodi:guide
+       position="0,950"
+       orientation="0,1"
+       inkscape:label="caps"
+       id="guide1763" />
+    <sodipodi:guide
+       position="0,750"
+       orientation="0,1"
+       inkscape:label="xheight"
+       id="guide1765" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="0,1"
+       inkscape:label="descender"
+       id="guide1767" />
+    <sodipodi:guide
+       position="0,250"
+       orientation="0,1"
+       inkscape:label="baseline"
+       id="guide1834" />
+    <sodipodi:guide
+       position="0,1000"
+       orientation="0,1"
+       inkscape:label="ascender"
+       id="guide1836" />
+    <sodipodi:guide
+       position="0,950"
+       orientation="0,1"
+       inkscape:label="caps"
+       id="guide1838" />
+    <sodipodi:guide
+       position="0,750"
+       orientation="0,1"
+       inkscape:label="xheight"
+       id="guide1840" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="0,1"
+       inkscape:label="descender"
+       id="guide1842" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <radialGradient
+       id="GradientPad"
+       cx="60"
+       cy="60"
+       r="40.000001"
+       fx="85"
+       fy="85"
+       spreadMethod="pad"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.82599689,0,0,0.82599689,8.6364078,39.657678)">
+      <stop
+         offset="0%"
+         stop-color="red"
+         id="stop824" />
+      <stop
+         offset="100%"
+         stop-color="blue"
+         id="stop826" />
+    </radialGradient>
+    <radialGradient
+       id="GradientRepeat"
+       cx="60"
+       cy="170"
+       r="40.000001"
+       fx="85"
+       fy="195"
+       spreadMethod="repeat"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.82599689,0,0,0.82599689,8.6364078,39.657678)">
+      <stop
+         offset="0%"
+         stop-color="red"
+         id="stop829" />
+      <stop
+         offset="100%"
+         stop-color="blue"
+         id="stop831" />
+    </radialGradient>
+    <radialGradient
+       id="GradientReflect"
+       cx="170"
+       cy="170"
+       r="40.000001"
+       fx="195"
+       fy="195"
+       spreadMethod="reflect"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.82599689,0,0,0.82599689,8.6364078,39.657678)">
+      <stop
+         offset="0%"
+         stop-color="red"
+         id="stop834" />
+      <stop
+         offset="100%"
+         stop-color="blue"
+         id="stop836" />
+    </radialGradient>
+  </defs>
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <g
+       id="g882"
+       style="display:inline"
+       transform="matrix(9.0196482,0,0,9.0799378,-148.50753,-435.08927)">
+      <rect
+         x="16.896378"
+         y="47.917648"
+         rx="12.389954"
+         ry="12.389954"
+         width="82.599686"
+         height="82.599686"
+         fill="url(#GradientPad)"
+         id="rect841"
+         style="fill:url(#GradientPad);stroke-width:0.825997" />
+      <text
+         x="21.026361"
+         y="64.437584"
+         fill="#ffffff"
+         font-family="sans-serif"
+         font-size="13.216px"
+         id="text847"
+         style="stroke-width:0.825997">Pad</text>
+    </g>
+  </g>
+</svg>

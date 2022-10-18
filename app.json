@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "Аква Санакр",
+    "slug": "akvasanakr",
+    "privacy": "public",
+    "description": "Додаток для замовлення очищенної води Аква Санакр у Кривому Розі",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon1.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.maskovlad.akvasanakr",
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon1.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon1.png"
+    }
+  }
+}

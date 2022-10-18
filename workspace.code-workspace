@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../../../var/www/html/wp-content/plugins/akvasana-dyndata"
+		}
+	],
+	"settings": {}
+}
